@@ -2,7 +2,7 @@ Hello,
 
 I'm using VS 2015 community.
 
-Here is the test with the solution named FibonacciTest witch contain those projects :
+Here is the test with the solution named FibonacciTest which contain those projects :
 1. ASP.NET web service project -> FibonacciTest
 2. Console Application -> FibonacciConsoleTest
 3. WinForm Application -> FibonacciWinFormTest
