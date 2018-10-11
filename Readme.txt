@@ -1,6 +1,6 @@
 Hello,
 
-I'm using VS 2015 communnity.
+I'm using VS 2015 community.
 
 Here is the test with the solution named FibonacciTest witch contain those projects :
 1. ASP.NET web service project -> FibonacciTest
